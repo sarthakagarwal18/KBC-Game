@@ -1,0 +1,24 @@
+<jwrapper>
+<BuildOutputFolder>C:\Users\SACHIN\workspace\kbc\JWrapperBuild</BuildOutputFolder>
+<BundleName>kbc</BundleName>
+<SplashPNG>C:\Users\SACHIN\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00041197918-complete\resources\jwlogo256.png</SplashPNG>
+<BundleLogoPNG>C:\Users\SACHIN\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00041197918-complete\resources\jwlogo256.png</BundleLogoPNG>
+<InstallType>CurrentUser</InstallType>
+<App>
+  <Name>kbc</Name>
+  <LogoPNG>C:\Users\SACHIN\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00041197918-complete\resources\jwlogo256.png</LogoPNG>
+  <MainClass></MainClass>
+</App>
+<SupportedLanguages>en</SupportedLanguages>
+<SkipWindows>true</SkipWindows>
+<SkipLinux>true</SkipLinux>
+<SkipMacOS>true</SkipMacOS>
+<NoStripJREs>true</NoStripJREs>
+<WindowsElevation>None</WindowsElevation>
+<WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+<JvmOptions>
+</JvmOptions>
+<!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>

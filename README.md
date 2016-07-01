@@ -7,3 +7,20 @@ If you get stuck somewhere, 3 Lifelines are available for your help, which can b
 
 2 Safezones are there in the game at Rs. 10,000 and Rs. 3,20,000 . If a person incorrectly answers the question, the person drops down and wins the money which was secured at the safezone. At any point, the player can choose to quit the game, and walk out with the
 money he has won until then.
+
+####Screenshots
+
+Home Screen
+![](/ScreenShots/Home Screen.png?raw=true)
+
+Main Screen
+![](/ScreenShots/Main Screen.png?raw=true)
+
+About Game
+![](/ScreenShots/About Game.png?raw=true)
+
+Instructions
+![](/ScreenShots/Instructions.png?raw=true)
+
+Winning Screen
+![](/ScreenShots/Winning Screen.png?raw=true)

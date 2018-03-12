@@ -11,16 +11,16 @@ money he has won until then.
 ####Screenshots
 
 Home Screen
-![](/ScreenShots/Home Screen.png?raw=true)
+![](/ScreenShots/"Home Screen.png"?raw=true)
 
 Main Screen
-![](/ScreenShots/Main Screen.png?raw=true)
+![](/ScreenShots/"Main Screen.png"?raw=true)
 
 About Game
-![](/ScreenShots/About Game.png?raw=true)
+![](/ScreenShots/"About Game.png"?raw=true)
 
 Instructions
 ![](/ScreenShots/Instructions.png?raw=true)
 
 Winning Screen
-![](/ScreenShots/Winning Screen.png?raw=true)
+![](/ScreenShots/"Winning Screen.png"?raw=true)
